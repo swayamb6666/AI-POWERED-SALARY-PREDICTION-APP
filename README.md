@@ -26,10 +26,10 @@ This web application uses **Machine Learning** to predict salaries and allows us
 ---
 
 ## 🎮 **Usage Guide**
-1️⃣ Enter job title, experience, and location
-2️⃣ Select company size and employment type
-3️⃣ Click "Predict Salary" to get an estimated salary
-4️⃣ View salary distribution charts for insights
+1️⃣ Enter job title, experience, and location---
+2️⃣ Select company size and employment type---
+3️⃣ Click "Predict Salary" to get an estimated salary---
+4️⃣ View salary distribution charts for insights---
 
 ---
 
