@@ -38,8 +38,8 @@ pip install streamlit
 3️⃣ Setup Streamlit
 '''bash
 run Streamlit as : streamlit run new_app.py ###
-
-## 🎮 Usage Guide
+---
+ 🎮 Usage Guide
 1️⃣ Enter job title, experience, and location
 2️⃣ Select company size and employment type
 3️⃣ Click "Predict Salary" to get an estimated salary
