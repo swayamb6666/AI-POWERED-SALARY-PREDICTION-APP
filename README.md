@@ -34,9 +34,9 @@ This web application uses **Machine Learning** to predict salaries and allows us
 ---
 
 ## 🎯 Future Improvements
-🔹 Add skills as an input for better predictions
-🔹 Improve accuracy with deep learning models
-🔹 Deploy the app on Streamlit Cloud / Heroku
+- Add skills as an input for better predictions
+- Improve accuracy with deep learning models
+- Deploy the app on Streamlit Cloud / Heroku
 
 ---
 
