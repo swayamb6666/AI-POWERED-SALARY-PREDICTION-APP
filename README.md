@@ -25,31 +25,18 @@ This web application uses **Machine Learning** to predict salaries and allows us
 
 ---
 
----
-## 📥 Installation Guide
-
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/swayamb6666/AI-POWERED-SALARY-PREDICTION-APP.git
-
-2️⃣ Install Streamlit
-'''bash
-pip install streamlit
-
-3️⃣ Setup Streamlit
-'''bash
-run Streamlit as : streamlit run new_app.py ###
----
- 🎮 Usage Guide
+## 🎮 **Usage Guide**
 1️⃣ Enter job title, experience, and location
 2️⃣ Select company size and employment type
 3️⃣ Click "Predict Salary" to get an estimated salary
 4️⃣ View salary distribution charts for insights
 
-🎯 Future Improvements
+---
+
+## 🎯 Future Improvements
 🔹 Add skills as an input for better predictions
 🔹 Improve accuracy with deep learning models
 🔹 Deploy the app on Streamlit Cloud / Heroku
-
+---
 
 
