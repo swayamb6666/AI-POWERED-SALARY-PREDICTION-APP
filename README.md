@@ -25,6 +25,7 @@ This web application uses **Machine Learning** to predict salaries and allows us
 
 ---
 
+---
 ## 📥 Installation Guide
 
 ### 1️⃣ Clone the repository
